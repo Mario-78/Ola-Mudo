@@ -1,2 +1,5 @@
-# Ola Mudo
+# Olá, Mudo!
+
  Treinamento github
+
+Git aprendizado.
