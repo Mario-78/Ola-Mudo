@@ -2,4 +2,6 @@
 
  Treinamento github
 
-Git aprendizado.
+Git aprendizado
+
+Alterção remota de repositorio!
